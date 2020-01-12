@@ -7,6 +7,7 @@
 * [Basics](basic/basics.md)
 * [Control Flow](basic/control-flow.md)
 * [Function](basic/function.md)
+* [Optional](basic/optional.md)
 * [Collection](basic/collection.md)
 
 ## Class <a id="class-1"></a>
