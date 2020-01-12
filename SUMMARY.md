@@ -8,7 +8,11 @@
 * [Control Flow](basic/control-flow.md)
 * [Function](basic/function.md)
 * [Optional](basic/optional.md)
-* [Collection](basic/collection.md)
+
+## Collections & Lambdas
+
+* [Collection](collections-and-lambdas/collection.md)
+* [Lambdas & Closures](collections-and-lambdas/lambdas-and-closures.md)
 
 ## Class <a id="class-1"></a>
 
